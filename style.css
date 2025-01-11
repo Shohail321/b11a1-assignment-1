@@ -65,7 +65,7 @@
     font-size: 24px;
     font-weight: 500px;
     /* color: linear-gradient(90deg, rgba(14,14,14,1) 0%, rgba(116,116,116,1) 100%); */
-    color:#797a7a
+    color:#8e9090;
     
   }
 
@@ -421,46 +421,46 @@
   }
   
   .newsletter-title {
-    font-size: 24px;
+    font-size: 40px;
     font-weight: bold;
-    color: #000;
-    margin-bottom: 10px;
+    color: #0E0E0E;
+    margin-bottom: 16px;
   }
   
   .newsletter-description {
     font-size: 16px;
     color: #555;
-    margin-bottom: 20px;
+    margin-bottom: 24px;
   }
   
   .newsletter-form {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 10px;
+    gap: 0px;
     margin-bottom: 15px;
   }
   
   .email-input {
-    padding: 10px;
+    padding: 18px 40px;
     font-size: 16px;
     width: 70%;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
     outline: none;
   }
   
   .email-input::placeholder {
-    color: #aaa;
+    color: #c7c2c2;
   }
   
   .subscribe-button {
-    padding: 10px 20px;
-    font-size: 16px;
+    padding: 18px 34px;
+    font-size: 18px;
     color: #fff;
-    background-color: #007d4a;
+    background-color: #006A50;
     border: none;
-    border-radius: 5px;
+    border-radius: 0px 10px 10px 0px;
     cursor: pointer;
   }
   
@@ -469,7 +469,7 @@
   }
   
   .newsletter-footer {
-    font-size: 14px;
+    font-size: 16px;
     color: #555;
   }
 
