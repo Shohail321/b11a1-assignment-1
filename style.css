@@ -260,6 +260,7 @@
     color: white;
 }
 
+
 /* testimonial section */
 
 .testimonial-section {
@@ -274,20 +275,19 @@
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 6px 50px 0px rgb(218, 211, 211);
-
-    display: flex;
     margin-bottom: 50px;
   }
  
   .testimonial-quote{
-    margin-top: 28px;
-    
-    
+    margin-top: 28px; 
   }
+
   .testimonial-card p{
     font-size: 16px;
     color: #6f6f6f;
   }
+
+
 
   /* news section */
 
@@ -359,6 +359,9 @@
     transition: .4s;
     background-color: #d55855;
   }
+
+
+
 
   /* donattion CSS */
 
@@ -441,19 +444,23 @@
     background-color: #004c30;
   }
 
+
+
   /* newsletter section */
 
   .newsletter-section{
     margin-left: 160px;
     margin-right: 160px;
+    margin-top: 70px;
+    margin-bottom: 70px;
   }
 
   .newsletter-container { 
     text-align: center;
     background-color: #C6E4D6;
     padding: 80px 100px;
-    margin: 100px auto;
     border-radius: 24px;
+
   }
   
   .newsletter-title {
