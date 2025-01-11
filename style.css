@@ -261,34 +261,6 @@
 }
 
 
-/* testimonial section */
-
-.testimonial-section {
-    margin-top: 70px;
-    margin-left: 160px;
-    margin-right: 160px;
-  }
-  
-  .testimonial-card {
-    padding: 48px 24px;
-    background-color: #ffffff;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0 6px 50px 0px rgb(218, 211, 211);
-    margin-bottom: 50px;
-  }
- 
-  .testimonial-quote{
-    margin-top: 28px; 
-  }
-
-  .testimonial-card p{
-    font-size: 16px;
-    color: #6f6f6f;
-  }
-
-
-
   /* news section */
 
   .news-section {
@@ -359,6 +331,32 @@
     transition: .4s;
     background-color: #d55855;
   }
+
+  /* testimonial section */
+
+.testimonial-section {
+  margin-top: 70px;
+  margin-left: 160px;
+  margin-right: 160px;
+}
+
+.testimonial-card {
+  padding: 48px 24px;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 6px 50px 0px rgb(218, 211, 211);
+  margin-bottom: 50px;
+}
+
+.testimonial-quote{
+  margin-top: 28px; 
+}
+
+.testimonial-card p{
+  font-size: 16px;
+  color: #6f6f6f;
+}
 
 
 
